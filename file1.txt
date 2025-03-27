@@ -1,1 +1,2 @@
-This i dummy test file created. 
+This i dummy test file created.
+Now this is the second line to commit. 
