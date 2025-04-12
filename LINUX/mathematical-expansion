@@ -1,4 +1,4 @@
-Q)explain Liux command '$(($(date '+%s') + 3600))'
+Q)explain Linux command '$(($(date '+%s') + 3600))'
 
 Ans)The command $(($(date '+%s') + 3600)) is a shell scripting expression commonly used in Linux-based environments. Let me break it down for you:
 
