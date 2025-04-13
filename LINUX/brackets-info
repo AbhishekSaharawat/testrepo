@@ -1,0 +1,7 @@
+
+Syntax	Purpose	                                  Example Usage	                      Valid Output
+$Variable	Variable expansion	                    echo $Variable	                    Value of Variable
+${Variable}	Variable expansion, avoids ambiguity	echo "Hello${Variable}"	            Clear text with Variable value
+$(variable)	Command substitution	                Date=$(date)	                      Output of a command
+$((Variable))	Arithmetic expansion	              echo $((Variable + 10))	            Result of arithmetic
+${{Variable}}	Invalid syntax                    	Not applicable	                    Syntax error
